@@ -20,16 +20,3 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </div>
-
-<br>
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GilangAnnugroho&show_icons=true&theme=darcula&hide_border=true&bg_color=0d1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAVΞN&layout=compact&theme=darcula&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
-</div>
-
-<br>
-<center>
-  <small>Let's connect and build something amazing!</small>
-</center>
