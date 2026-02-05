@@ -15,10 +15,8 @@
 
 ---
 
-## 💻 Tech Stack
-
 <div align="center">
-
+## 💻 Tech Stack
 <img src="https://skillicons.dev/icons?i=php,python,html,css,js,dart,laravel,flutter&theme=dark" />
 
 </div>
