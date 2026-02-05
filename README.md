@@ -28,15 +28,6 @@
 
 </div>
 
----
-
-## 🌟 Current Focus
-- 📱 Learning **Flutter Mobile Development**
-- 🧠 Exploring **Data Science & Expert Systems**
-- 🌐 Building **Laravel & Python-based Applications**
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect & Build Something Great Together
