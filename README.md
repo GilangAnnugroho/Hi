@@ -4,14 +4,6 @@
 
 # Hi, I'm Gilang 
 
-### 🧠 Informatics Engineering Student at UMC  
-💻 Passionate about exploring projects in my free time  
-📚 Consistently building daily academic & personal projects  
-
-</div>
-
----
-
 ## 🚀 About Me
 - 🎓 **Informatics Engineering** student  
 - 🔎 Love exploring **new technologies & problem solving**  
