@@ -1,22 +1,20 @@
 <div align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
-
-# Hi, I'm Gilang 👋
+# Hi, I'm Gilang 
 
 ### 🧠 Informatics Engineering Student at UMC  
 💻 Passionate about exploring projects in my free time  
 📚 Consistently building daily academic & personal projects  
-
 </div>
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Informatics Engineering** student  
-- 🔎 Love exploring **new technologies & problem solving**  
-- 🛠️ Actively building **web apps, mobile apps, and AI-based systems**  
-- ⚡ Enjoy optimizing logic, structure, and clean code  
+🎓 **Informatics Engineering** student  
+🔎 Love exploring **new technologies & problem solving**  
+ 🛠️ Actively building **web apps, mobile apps, and AI-based systems**  
+⚡ Enjoy optimizing logic, structure, and clean code  
 
 ---
 
@@ -25,18 +23,6 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=php,python,html,css,js,dart,laravel,flutter&theme=dark" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=GilangAnnugroho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilangAnnugroho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
 
