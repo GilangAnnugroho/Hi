@@ -2,14 +2,6 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
 
-# Hi, I'm Gilang 
-## 🚀 About Me
-🎓 **Informatics Engineering** student  
-🔎 Love exploring **new technologies & problem solving**  
-🛠️ Actively building **web apps, mobile apps, and AI-based systems**  
-⚡ Enjoy optimizing logic, structure, and clean code  
-
----
 
 ## 💻 Tech Stack
 
