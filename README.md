@@ -1,22 +1,58 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100px">
-  <h1>Hi there, I'm Gilang! 👋</h1>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
+
+# Hi, I'm Gilang 👋
+
+### 🧠 Informatics Engineering Student at UMC  
+💻 Passionate about exploring projects in my free time  
+📚 Consistently building daily academic & personal projects  
+
 </div>
 
-### 🛠️ Tech Stack & Tools
-<div align="left">
+---
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+## 🚀 About Me
+- 🎓 **Informatics Engineering** student  
+- 🔎 Love exploring **new technologies & problem solving**  
+- 🛠️ Actively building **web apps, mobile apps, and AI-based systems**  
+- ⚡ Enjoy optimizing logic, structure, and clean code  
 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+---
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,python,html,css,js,dart,laravel,flutter&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=GilangAnnugroho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilangAnnugroho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+---
+
+## 🌟 Current Focus
+- 📱 Learning **Flutter Mobile Development**
+- 🧠 Exploring **Data Science & Expert Systems**
+- 🌐 Building **Laravel & Python-based Applications**
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Something Great Together
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2563eb&height=120&section=footer"/>
 
 </div>
