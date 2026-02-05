@@ -6,8 +6,9 @@
 
 </div>
 
-<p align="justify">
-🎓 7th semester <b>Informatics Engineering</b> student at UMC &nbsp; 🔎 Love exploring <b>new technologies & problem solving</b><br>
+<p align="center">
+🎓 7th semester <b>Informatics Engineering</b> student at UMC
+🔎 Love exploring <b>new technologies & problem solving</b><br>
 💻 Passionate about exploring projects in my free time<br>
 ⚡ Enjoy optimizing logic, structure, and clean code
 </p>
