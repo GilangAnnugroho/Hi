@@ -30,12 +30,4 @@
 
 ---
 
-<!-- ================= FOOTER ================= -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0d1117&height=170&section=footer"/>
-
-### ✨ *Building the future, one line of code at a time.*
-
-</div>
 
