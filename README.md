@@ -17,12 +17,3 @@
 </p>
 
 ---
-
-<!-- ===== TECH STACK ===== -->
-<div align="center">
-
-## 💻 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=php,python,html,css,js,laravel,flutter&theme=dark" />
-
-</div>
