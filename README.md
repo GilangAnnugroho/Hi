@@ -14,7 +14,6 @@
 🎓 Informatics Engineering</b> student at UMC <br>
 🔎 Love exploring <b>new technologies & problem solving</b> <br>
 💻 Passionate about exploring projects in my free time <br>
-⚡ Enjoy optimizing logic, structure, and clean code
 </p>
 
 ---
@@ -24,6 +23,6 @@
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=php,python,html,css,js,dart,laravel,flutter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,python,html,css,js,laravel,flutter&theme=dark" />
 
 </div>
