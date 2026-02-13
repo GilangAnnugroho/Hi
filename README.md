@@ -6,13 +6,11 @@
 
 </div>
 
----
-
 <p align="center">
   <samp>
     🎓 <b>Informatics Engineering</b> student at UMC <br>
     🔎 Love exploring <b>new technologies & problem solving</b> <br>
-    🛠️ Passionate about exploring projects in my free time
+    🚀 Passionate about exploring projects in my free time
   </samp>
 </p>
 
@@ -20,13 +18,16 @@
 
 <div align="center">
   <h3>💻 Languages & Tools</h3>
+  
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  
+  <br> <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+  <br> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 <br>
@@ -48,4 +49,6 @@
 
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2563eb&height=100&section=footer" width="100%" />
+</div>
