@@ -1,10 +1,14 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2563eb&height=180&section=header&text=Hi,%20I'm%20Gilang%20Annugroho&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2563eb&height=180&section=header&text=Hi,%20I'm%20Gilang%20Annugroho&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
   
   <br>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student;Web+%26+Mobile+Developer;" />
 </div>
+
+<br>
+
+---
 
 <div align="center">
   <br>
@@ -16,6 +20,8 @@
   <br><br>
 </div>
 
+---
+
 <div align="center">
   <h3>💻 Languages & Tools</h3>
   <a href="https://skillicons.dev">
@@ -24,6 +30,8 @@
 </div>
 
 <br>
+
+---
 
 <div align="center">
   <h3>📫 Connect with Me</h3>
