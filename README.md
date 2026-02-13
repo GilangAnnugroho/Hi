@@ -3,7 +3,7 @@
   
   <br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student;Web+%26+Mobile+Developer;Flutter+%26+Laravel+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student;Web+%26+Mobile+Developer;" />
 </div>
 
 <div align="center">
