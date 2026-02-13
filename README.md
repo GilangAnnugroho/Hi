@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Informatics+Engineering+Student;Web+%26+Mobile+Developer;" />
 </div>
 
-<br>
-
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div>
 
 <div align="center">
   <br>
@@ -20,21 +20,25 @@
   <br><br>
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div>
 
 <div align="center">
-  <h3>💻 Languages & Tools</h3>
+  <h3>Languages & Tools</h3>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,python&theme=dark" />
   </a>
+  <br><br>
 </div>
 
-<br>
-
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
+</div>
 
 <div align="center">
-  <h3>📫 Connect with Me</h3>
+  <h3>Connect with Me</h3>
   
   <a href="https://github.com/GilangAnnugroho" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
