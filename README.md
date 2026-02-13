@@ -26,7 +26,6 @@
 
 <div align="center">
   <h3>Languages & Tools</h3>
-  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,python&theme=dark" />
   </a>
@@ -39,7 +38,6 @@
 
 <div align="center">
   <h3>Connect with Me</h3>
-  
   <a href="https://github.com/GilangAnnugroho" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a> 
