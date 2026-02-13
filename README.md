@@ -19,7 +19,7 @@
 <div align="center">
   <h3>💻 Languages & Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,python,html,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,python&theme=dark" />
   </a>
 </div>
 
